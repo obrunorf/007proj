@@ -24,28 +24,25 @@ body {
     margin-top: 24px;
     margin-bottom: 16px;
     text-shadow: 2px 2px 4px #000;
+    font-family: '007 GoldenEye', sans-serif;
   }
   
   h1 {
     font-size: 2.5em;
-    font-family: '007 GoldenEye', sans-serif;
   }
   
   h2 {
     font-size: 2em;
-    font-family: '007 GoldenEye', sans-serif;
   }
   
   h3 {
     font-size: 1.5em;
-    font-family: '007 GoldenEye', sans-serif;
   }
   
   h4,
   h5,
   h6 {
     font-size: 1.2em;
-    font-family: '007 GoldenEye', sans-serif;
   }
   
   a {
