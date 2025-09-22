@@ -1,7 +1,7 @@
 body {
     background-color: #1f1c25;
     color: #ffffff;
-    font-family: '007 GoldenEye', sans-serif;
+    font-family: 'Ubuntu Mono', sans-serif;                                                
     line-height: 1.7;
     margin: 0;
     padding: 20px;
@@ -28,20 +28,24 @@ body {
   
   h1 {
     font-size: 2.5em;
+    font-family: '007 GoldenEye', sans-serif;
   }
   
   h2 {
     font-size: 2em;
+    font-family: '007 GoldenEye', sans-serif;
   }
   
   h3 {
     font-size: 1.5em;
+    font-family: '007 GoldenEye', sans-serif;
   }
   
   h4,
   h5,
   h6 {
     font-size: 1.2em;
+    font-family: '007 GoldenEye', sans-serif;
   }
   
   a {
